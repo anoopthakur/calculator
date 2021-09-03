@@ -1,1 +1,1 @@
-heloo
+Calculator app performs casic funtions and have basic UI
